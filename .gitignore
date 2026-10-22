@@ -9,8 +9,6 @@ coverage/
 *~
 
 # local env files
-.env
-.env.local
 .env.*.local
 
 # logs
@@ -29,3 +27,4 @@ docs/.vitepress/dist/
 artifacts/
 dist/
 .workbuddy/
+config.bat
